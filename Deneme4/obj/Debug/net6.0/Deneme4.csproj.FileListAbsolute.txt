@@ -1,0 +1,15 @@
+D:\yazılım\Deneme4\bin\Debug\net6.0\Deneme4.exe
+D:\yazılım\Deneme4\bin\Debug\net6.0\Deneme4.deps.json
+D:\yazılım\Deneme4\bin\Debug\net6.0\Deneme4.runtimeconfig.json
+D:\yazılım\Deneme4\bin\Debug\net6.0\Deneme4.dll
+D:\yazılım\Deneme4\bin\Debug\net6.0\ref\Deneme4.dll
+D:\yazılım\Deneme4\bin\Debug\net6.0\Deneme4.pdb
+D:\yazılım\Deneme4\obj\Debug\net6.0\Deneme4.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\Deneme4\obj\Debug\net6.0\Deneme4.AssemblyInfoInputs.cache
+D:\yazılım\Deneme4\obj\Debug\net6.0\Deneme4.AssemblyInfo.cs
+D:\yazılım\Deneme4\obj\Debug\net6.0\Deneme4.csproj.CoreCompileInputs.cache
+D:\yazılım\Deneme4\obj\Debug\net6.0\Deneme4.dll
+D:\yazılım\Deneme4\obj\Debug\net6.0\ref\Deneme4.dll
+D:\yazılım\Deneme4\obj\Debug\net6.0\Deneme4.pdb
+D:\yazılım\Deneme4\obj\Debug\net6.0\Deneme4.genruntimeconfig.cache
+D:\yazılım\Deneme4\obj\Debug\net6.0\Deneme4.csproj.AssemblyReference.cache
